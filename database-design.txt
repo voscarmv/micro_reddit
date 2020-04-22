@@ -5,13 +5,13 @@ has_many_comments
 
 Post 
 title:string
-body:string
+body:text
 has_many_comments
 
 belongs_to_User
 
 Comment
-body:string
+body:text
 
 belong_to_post
 belong_to_user
