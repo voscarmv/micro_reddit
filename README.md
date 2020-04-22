@@ -1,24 +1,40 @@
-# README
+# Ruby on Rails: Blogger tutorial solution
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+ Solution to the *micro-reddit* excercises from The Odin Project's  [Building with active records section](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-micro-reddit)
 
-Things you may want to cover:
 
-* Ruby version
+### Prerequisites
 
-* System dependencies
+Follow the [installation instructions](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby) from The Odin Project.
 
-* Configuration
+## Author
 
-* Database creation
+**Oscar Mier**
+- Github: [@voscarmv](https://github.com/voscarmv)
+- Twitter: [@voscarmv](https://twitter.com/voscarmv)
+- Linkedin: [Oscar Mier](https://www.linkedin.com/in/oscar-mier-072984196/) 
 
-* Database initialization
+**Alexis Sanchez**
+- Github: [@Psiale](https://github.com/Psiale)
+- Twitter: [@TFH_](https://twitter.com/TFH_)
+- Linkedin: [Alexis Sanchez](https://www.linkedin.com/in/alexis-gabriel-sánchez-cárcamo-264ba7194/)
 
-* How to run the test suite
+## 🤝 Contributing
 
-* Services (job queues, cache servers, search engines, etc.)
+Contributions, issues and feature requests are welcome!
 
-* Deployment instructions
+Feel free to check the [issues page](../../issues/).
 
-* ...
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Thanks to [Microverse](www.microverse.org) for the opportunity.
+- Thanks to [The Odin Project](https://www.theodinproject.com/) for the guidance.
+- Thanks to Michael Hartl for his [tutorial](https://www.railstutorial.org/).
+
+## 📝 License
+
+This project is MIT licensed.
