@@ -10,12 +10,21 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2020_04_22_163505) do
+ActiveRecord::Schema.define(version: 2020_04_22_195217) do
+
+  create_table "posts", force: :cascade do |t|
+    t.string "title", limit: 200, null: false
+    t.text "body", limit: 20000, null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.integer "user_id"
+  end
 
   create_table "users", force: :cascade do |t|
-    t.string "name", limit: 24, null: false
+    t.string "name", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
 
+  add_foreign_key "posts", "users"
 end
