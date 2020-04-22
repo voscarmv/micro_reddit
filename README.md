@@ -1,4 +1,4 @@
-# Ruby on Rails: Blogger tutorial solution
+# Ruby on Rails: Micro-Reddit
 
  Solution to the *micro-reddit* excercises from The Odin Project's  [Building with active records section](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-micro-reddit)
 
