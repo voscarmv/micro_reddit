@@ -5,7 +5,17 @@
 
 ### Prerequisites
 
-Follow the [installation instructions](https://www.theodinproject.com/courses/web-development-101/lessons/installing-ruby) from The Odin Project.
+Follow the installation instructions [for Ruby](https://www.theodinproject.com/courses/ruby-programming/lessons/installing-ruby-ruby-programming) and [Rails](https://www.theodinproject.com/courses/ruby-on-rails/lessons/your-first-rails-application-ruby-on-rails) from The Odin Project.
+
+## Live Demo
+
+To test the app, first [install the heroku cli](https://devcenter.heroku.com/articles/heroku-cli) and then run
+
+```
+$ heroku run rails console --app still-caverns-02431
+```
+
+To use the Rails console from your terminal.
 
 ## Author
 
