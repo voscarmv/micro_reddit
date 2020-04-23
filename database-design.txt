@@ -1,0 +1,17 @@
+User 
+username:string
+has_many_post
+has_many_comments
+
+Post 
+title:string
+body:text
+has_many_comments
+
+belongs_to_User
+
+Comment
+body:text
+
+belong_to_post
+belong_to_user
