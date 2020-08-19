@@ -2,6 +2,7 @@
 
  Solution to the *micro-reddit* excercises from The Odin Project's  [Building with active records section](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record-ruby-on-rails#project-micro-reddit)
 
+![image](https://user-images.githubusercontent.com/2739245/90670587-0853f080-e219-11ea-8ab7-375fdb56d7b4.png)
 
 ### Prerequisites
 
